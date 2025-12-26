@@ -25,7 +25,7 @@ security posture, and building practical security tools aligned with industry st
 
 ### AWS Misconfiguration Scanner
 **Tech:** Python (FastAPI), AWS (boto3), TypeScript, Docker  
-🔗 https://github.com/hardikPTL22/cloud-scanner
+🔗 [https://github.com/hardikPTL22/cloud-scanner](https://github.com/hardikPTL22/cloud-scanner)
 
 A full-stack cloud security assessment tool designed to identify security misconfigurations
 across AWS services.
@@ -39,7 +39,7 @@ across AWS services.
 
 ### Athena CTF Platform
 **Tech:** Docker, Kubernetes, Grafana, Loki, Tempo, Mimir  
-🔗 https://github.com/hardikPTL22/athena-ctf
+🔗 [https://github.com/hardikPTL22/athena-ctf](https://github.com/athena-ctf)
 
 A containerized Capture-The-Flag platform focused on cloud-native and DevOps environments.
 
@@ -51,7 +51,7 @@ A containerized Capture-The-Flag platform focused on cloud-native and DevOps env
 
 ### Smart Classroom Resource Management (Hackathon Project)
 **Tech:** Flask, Python  
-🔗 https://github.com/hardikPTL22/code-arena
+🔗 [https://github.com/hardikPTL22/code-arena](https://github.com/my895/EduViz)
 
 Developed a secure resource management module as part of a smart classroom system.
 
