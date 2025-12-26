@@ -60,33 +60,61 @@ Developed a secure resource management module as part of a smart classroom syste
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-### Cloud & DevSecOps
-- AWS (IAM, EC2, S3, RDS, CloudTrail, Lambda)
-- Docker, Kubernetes
-- Terraform, CloudFormation
-- CI/CD Security (GitHub Actions)
+### ☁️ Cloud & DevSecOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="42" />
+</p>
 
-### Security & Risk Management
-- Web Penetration Testing (OWASP Top 10)
-- Threat Modeling
-- Risk Assessment
-- ISO 27001, NIST CSF (working knowledge)
-- PCI-DSS (fundamentals)
+**AWS (IAM, EC2, S3, RDS, CloudTrail, Lambda)**  
+**Docker · Kubernetes · Terraform · CloudFormation · GitHub Actions (CI/CD Security)**
 
-### Security Tools & Monitoring
-- Burp Suite, OWASP ZAP
-- Wireshark, Nmap, Metasploit
-- Snyk
-- Grafana, CloudWatch, OpenTelemetry
+---
 
-### Programming & Automation
-- Python (FastAPI, boto3)
-- Bash
-- Go
-- C / C++
-- Java
+### 🔐 Security & Risk Management
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" height="42" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/security-checked.png" height="42" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/risk.png" height="42" />
+</p>
+
+**Web Penetration Testing (OWASP Top 10)**  
+**Threat Modeling · Risk Assessment**  
+**ISO 27001 · NIST CSF (working knowledge) · PCI-DSS (fundamentals)**
+
+---
+
+### 🛡️ Security Tools & Monitoring
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="42" />
+</p>
+
+**Burp Suite · OWASP ZAP · Wireshark · Nmap · Metasploit**  
+**Snyk · Grafana · AWS CloudWatch · OpenTelemetry**
+
+---
+
+### 💻 Programming & Automation
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="42" />
+</p>
+
+**Python (FastAPI, boto3) · Bash · Go · C / C++ · Java**
+
 
 ---
 
