@@ -1,103 +1,107 @@
-<h1 align="center">Hi 👋, I'm Hardik Patel</h1>
-<h3 align="center">Cybersecurity | Cloud Security & DevSecOps Engineer</h3>
+# Hi, I'm Hardik Patel
 
-<p align="center">
-Securing cloud-native environments, automating security assessments, and building
-production-ready security solutions aligned with industry standards.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hardikptl22&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+Cybersecurity and Cloud Security enthusiast with hands-on experience in cloud security assessments,
+DevSecOps practices, and security automation. I focus on identifying misconfigurations, improving
+security posture, and building practical security tools aligned with industry standards.
 
 ---
 
-## 🔍 About Me
-- 🔭 Working on **Cloud Security & DevSecOps projects** (AWS misconfiguration scanning, security automation)  
-- 🌱 Learning **Advanced AWS Security, Kubernetes Security, SIEM & Cloud Detection Engineering**  
-- 👯 Open to collaborating on **open-source security tools & cloud platforms**  
-- 💬 Ask me about **Cloud Security, AWS IAM, DevSecOps, OWASP Top 10, Penetration Testing**  
-- 📫 Reach me at **hardik.p.2205@gmail.com**  
-- 📄 [View Resume](https://drive.google.com/file/d/1hp3Do2653ll-LGecn-_xmSJxg6J_gdBU/view?usp=sharing)  
-- ⚡ Fun fact: *I enjoy breaking systems to understand how to secure them*
+## About Me
+
+- Cybersecurity undergraduate specializing in Cloud Security and DevSecOps  
+- Experience in AWS security, Kubernetes, penetration testing, and risk assessment  
+- Strong interest in cloud threat detection, identity security, and security automation  
+- Familiar with ISO 27001, NIST CSF, and OWASP Top 10  
+- Actively participate in CTFs and national cyber defense exercises  
+
+📍 Surat, India  
+📧 hardik.p.2205@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/hardik22)  
+📄 [Resume](https://drive.google.com/file/d/1hp3Do2653ll-LGecn-_xmSJxg6J_gdBU/view)
 
 ---
 
-## 🏅 Certifications & Badges
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CCNA-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/ISO%2027001-ISMS-0052CC?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
-<img src="https://img.shields.io/badge/NIST-CSF-000000?style=for-the-badge&logo=govdotuk&logoColor=white"/>
-</p>
+## Key Projects
+
+### AWS Misconfiguration Scanner
+**Tech:** Python (FastAPI), AWS (boto3), TypeScript, Docker  
+🔗 https://github.com/hardikPTL22/cloud-scanner
+
+A full-stack cloud security assessment tool designed to identify security misconfigurations
+across AWS services.
+
+- Performs multi-service scanning (IAM, S3, EC2, RDS, CloudTrail, etc.)
+- Uses AWS STS for secure account validation
+- Generates compliance-oriented reports in PDF, JSON, and CSV formats
+- Dockerized for production-ready deployment
 
 ---
 
-## 🧠 CTF & Cyber Activities
-<p align="left">
-<img src="https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme"/>
-<img src="https://img.shields.io/badge/PicoCTF-70%2B%20Challenges-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bharat%20NCX-National%20Cyber%20Defense-success?style=for-the-badge"/>
-</p>
+### Athena CTF Platform
+**Tech:** Docker, Kubernetes, Grafana, Loki, Tempo, Mimir  
+🔗 https://github.com/hardikPTL22/athena-ctf
+
+A containerized Capture-The-Flag platform focused on cloud-native and DevOps environments.
+
+- Designed for scalable challenge deployment using Kubernetes
+- Integrated full observability stack for monitoring and debugging
+- Focused on realistic attack-defense scenarios
 
 ---
 
-## ☁️ Cloud Security & DevSecOps
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="45"/>
-</p>
+### Smart Classroom Resource Management (Hackathon Project)
+**Tech:** Flask, Python  
+🔗 https://github.com/hardikPTL22/code-arena
+
+Developed a secure resource management module as part of a smart classroom system.
+
+- Implemented user authentication and access control
+- Focused on secure backend design and data handling
 
 ---
 
-## 🔐 Security Tools & Monitoring
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-</p>
+## Technical Skills
+
+### Cloud & DevSecOps
+- AWS (IAM, EC2, S3, RDS, CloudTrail, Lambda)
+- Docker, Kubernetes
+- Terraform, CloudFormation
+- CI/CD Security (GitHub Actions)
+
+### Security & Risk Management
+- Web Penetration Testing (OWASP Top 10)
+- Threat Modeling
+- Risk Assessment
+- ISO 27001, NIST CSF (working knowledge)
+- PCI-DSS (fundamentals)
+
+### Security Tools & Monitoring
+- Burp Suite, OWASP ZAP
+- Wireshark, Nmap, Metasploit
+- Snyk
+- Grafana, CloudWatch, OpenTelemetry
+
+### Programming & Automation
+- Python (FastAPI, boto3)
+- Bash
+- Go
+- C / C++
+- Java
 
 ---
 
-## 💻 Programming & Automation
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45"/>
-</p>
+## Cyber Activities & Certifications
+
+- Cybersecurity Intern at **L&T Technology Services** (Azure AD threat modeling, ISMS training)
+- Web and network penetration testing intern at **The Red Users**
+- Volunteer at **Bharat NCX** national cyber defense simulations
+- Top 4% on TryHackMe, 70+ challenges solved on PicoCTF
+- AWS Cloud Practitioner Essentials – AWS Skill Builder
+- CCNA: Introduction to Networks, Switching & Routing – Cisco
 
 ---
 
-## 📊 GitHub Stats (Dark Theme)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hardikptl22&show_icons=true&theme=tokyonight"/>
-</p>
+## GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikptl22&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikptl22&theme=tokyonight"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/hardik22" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://medium.com/@hardikp2205" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"/>
-</a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardikptl22&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hardikptl22&layout=compact&theme=default)
