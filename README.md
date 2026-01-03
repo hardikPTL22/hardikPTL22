@@ -146,6 +146,7 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 
 <br clear="left"/>
 
+<br clear="left"/>
 
 <img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/TheRedUserslogo.jpg"
      width="38"
@@ -160,6 +161,7 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 - Delivered remediation-focused security reports  
 
 <br clear="left"/>
+
 
 ---
 
