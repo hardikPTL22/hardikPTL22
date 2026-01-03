@@ -152,7 +152,6 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 </table>
 
 
-
 <table width="100%">
   <tr>
     <td width="60" valign="top">
@@ -171,6 +170,7 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
     </td>
   </tr>
 </table>
+
 
 
 ---
