@@ -82,11 +82,11 @@ Key highlights:
 
 ### Cloud & DevSecOps
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34"/>
 </p>
 
 AWS (IAM, EC2, S3, RDS, CloudTrail, Lambda)  
@@ -104,10 +104,10 @@ ISO 27001, NIST CSF (working knowledge), PCI-DSS (fundamentals)
 
 ### Security Tools & Monitoring
 <p align="left">
-  <img src="https://cdn.simpleicons.org/burpsuite" height="34"/>
-  <img src="https://cdn.simpleicons.org/wireshark" height="34"/>
-  <img src="https://cdn.simpleicons.org/nmap" height="34"/>
-  <img src="https://cdn.simpleicons.org/grafana" height="34"/>
+  <img src="https://cdn.simpleicons.org/burpsuite" height="32"/>
+  <img src="https://cdn.simpleicons.org/wireshark" height="32"/>
+  <img src="https://cdn.simpleicons.org/nmap" height="32"/>
+  <img src="https://cdn.simpleicons.org/grafana" height="32"/>
 </p>
 
 Burp Suite, OWASP ZAP, Wireshark, Nmap, Metasploit  
@@ -117,12 +117,12 @@ Snyk, Grafana, AWS CloudWatch, OpenTelemetry
 
 ### Programming & Automation
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="34"/>
 </p>
 
 Python (FastAPI, boto3), Bash, Go, C/C++, Java
