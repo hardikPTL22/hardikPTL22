@@ -66,11 +66,11 @@ Developed a secure resource management module as part of a smart classroom syste
 
 ### ☁️ Cloud & DevSecOps
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
 **AWS (IAM, EC2, S3, RDS, CloudTrail, Lambda)**  
@@ -80,9 +80,9 @@ Developed a secure resource management module as part of a smart classroom syste
 
 ### 🔐 Security & Risk Management
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/iso.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nist.svg" height="38"/>
+  <img src="https://cdn.simpleicons.org/owasp" height="38"/>
+  <img src="https://cdn.simpleicons.org/iso" height="38"/>
+  <img src="https://cdn.simpleicons.org/nist" height="38"/>
 </p>
 
 **Web Penetration Testing (OWASP Top 10)**  
@@ -93,12 +93,13 @@ Developed a secure resource management module as part of a smart classroom syste
 
 ### 🛡️ Security Tools & Monitoring
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg" height="38"/>
+  <img src="https://cdn.simpleicons.org/burpsuite" height="38"/>
+  <img src="https://cdn.simpleicons.org/owasp" height="38"/>
+  <img src="https://cdn.simpleicons.org/wireshark" height="38"/>
+  <img src="https://cdn.simpleicons.org/nmap" height="38"/>
+  <img src="https://cdn.simpleicons.org/grafana" height="38"/>
 </p>
+
 
 **Burp Suite · OWASP ZAP · Wireshark · Nmap · Metasploit**  
 **Snyk · Grafana · AWS CloudWatch · OpenTelemetry**
@@ -107,13 +108,14 @@ Developed a secure resource management module as part of a smart classroom syste
 
 ### 💻 Programming & Automation
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
 </p>
+
 
 **Python (FastAPI, boto3) · Bash · Go · C / C++ · Java**
 
