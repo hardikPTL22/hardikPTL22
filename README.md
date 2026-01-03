@@ -131,11 +131,11 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 
 ## Experience Highlights
 
-<table>
+<table width="100%">
   <tr>
-    <td width="70">
+    <td width="60" valign="top">
       <img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/LTTSlogo.jpg"
-           width="45"
+           width="40"
            alt="L&T Technology Services"/>
     </td>
     <td>
@@ -152,11 +152,12 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 </table>
 
 
-<table>
+
+<table width="100%">
   <tr>
-    <td width="70">
+    <td width="60" valign="top">
       <img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/TheRedUserslogo.jpg"
-           width="45"
+           width="40"
            alt="The Red Users"/>
     </td>
     <td>
@@ -194,9 +195,8 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 - Google Cloud Study Jam — Google
 
 ---
-
 ## GitHub Activity
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardikPTL22"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardikPTL22"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardikPTL22" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardikPTL22" height="170"/>
 </p>
