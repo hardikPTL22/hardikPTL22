@@ -131,10 +131,7 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 
 ## Experience Highlights
 
-<img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/LTTSlogo.jpg"
-     width="38"
-     align="left"
-     alt="L&T Technology Services"/>
+<img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/LTTSlogo.jpg" width="32" alt="L&T Technology Services"/>
 
 **L&T Technology Services** — Security Intern  
 *Jan 2025 – Apr 2025*
@@ -144,26 +141,16 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 - ISMS and GDPR training  
 - Built AI-assisted P&ID analysis system (95% accuracy)
 
-<br clear="left"/>
-
 ---
 
-<br clear="left"/>
-
-<img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/TheRedUserslogo.jpg"
-     width="38"
-     align="left"
-     alt="The Red Users"/>
+<img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/TheRedUserslogo.jpg" width="32" alt="The Red Users"/>
 
 **The Red Users** — Penetration Testing Intern  
 *Oct 2024 – Nov 2024*
 
 - Web and network penetration testing  
 - Identified SQLi, XSS, and CSRF vulnerabilities  
-- Delivered remediation-focused security reports  
-
-<br clear="left"/>
-
+- Delivered remediation-focused security reports
 
 ---
 
