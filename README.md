@@ -49,6 +49,14 @@ A containerized Capture-The-Flag platform focused on cloud-native and DevOps env
 
 ---
 
+### 🛡️ TrustLens – Discord Security Bot
+Security-focused Discord bot that analyzes messages, URLs, and files to detect malicious or suspicious behavior in real time.  
+**Focus:** Threat detection, trust scoring, abuse prevention  
+**Tech:** Python, Discord API, Security Analysis  
+🔗 https://github.com/hardikPTL22/trustlens-bot
+
+---
+
 ### Smart Classroom Resource Management (Hackathon Project)
 **Tech:** Flask, Python  
 🔗 [https://github.com/hardikPTL22/code-arena](https://github.com/my895/EduViz)
@@ -57,7 +65,7 @@ Developed a secure resource management module as part of a smart classroom syste
 
 - Implemented user authentication and access control
 - Focused on secure backend design and data handling
-
+  
 ---
 
 ## 🛠️ Technical Skills
@@ -121,15 +129,38 @@ Developed a secure resource management module as part of a smart classroom syste
 
 
 ---
+## 🏢 Experience Highlights
 
-## Cyber Activities & Certifications
+### 🔹 L&T Technology Services — Security Intern
+- Performed **Azure AD threat modeling** and IAM security assessments
+- Assisted in remediating cloud identity misconfigurations
+- Completed **ISMS & Data Privacy training** (ISO 27001, GDPR)
+- Built an **AI-assisted P&ID analysis system** used in engineering workflows
 
-- Cybersecurity Intern at **L&T Technology Services** (Azure AD threat modeling, ISMS training)
-- Web and network penetration testing intern at **The Red Users**
-- Volunteer at **Bharat NCX** national cyber defense simulations
-- Top 4% on TryHackMe, 70+ challenges solved on PicoCTF
-- AWS Cloud Practitioner Essentials – AWS Skill Builder
-- CCNA: Introduction to Networks, Switching & Routing – Cisco
+### 🔹 The Red Users — Pentesting Intern
+- Conducted **web and network penetration testing**
+- Identified **SQLi, XSS, CSRF** vulnerabilities across multiple applications
+- Documented findings with clear remediation guidance
+
+---
+
+## 🛡️ Cyber Activities & Community
+
+- Volunteer at **Bharat NCX** national cyber defense simulations (NSCS & RRU)
+- Top **4% on TryHackMe**, 70+ challenges solved on PicoCTF
+- Actively practice web, crypto, and reversing challenges
+- Publish technical security articles on **Medium**
+
+---
+## 📜 Certifications
+
+- AWS Cloud Practitioner Essentials — AWS Skill Builder
+- CCNA: Introduction to Networks — Cisco
+- CCNA: Switching, Routing & Wireless Essentials — Cisco
+- CCNA: Enterprise Networking, Security & Automation — Cisco
+- Fundamentals of AI Security — Microsoft
+- Microsoft Security Copilot — Microsoft
+- Google Cloud Study Jam — Google
 
 ---
 
