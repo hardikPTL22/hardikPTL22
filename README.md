@@ -131,16 +131,46 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 
 ## Experience Highlights
 
-### L&T Technology Services — Security Intern
-- Performed Azure AD threat modeling and IAM security assessments
-- Assisted in remediation of cloud identity misconfigurations
-- Completed ISMS and data privacy training (ISO 27001, GDPR)
-- Built an AI-assisted P&ID analysis system achieving 95% accuracy and 60% faster reviews
+<table>
+  <tr>
+    <td width="70">
+      <img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/LTTSlogo.jpg"
+           width="45"
+           alt="L&T Technology Services"/>
+    </td>
+    <td>
+      <strong>L&T Technology Services</strong> — Security Intern<br/>
+      <em>Jan 2025 – Apr 2025</em>
+      <ul>
+        <li>Azure AD threat modeling and IAM security assessments</li>
+        <li>Cloud identity misconfiguration remediation</li>
+        <li>ISMS and GDPR training</li>
+        <li>Built AI-assisted P&amp;ID analysis system (95% accuracy)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### The Red Users — Penetration Testing Intern
-- Conducted web and network penetration testing engagements
-- Identified SQL injection, XSS, and CSRF vulnerabilities
-- Delivered remediation-focused vulnerability reports
+
+<table>
+  <tr>
+    <td width="70">
+      <img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/TheRedUserslogo.jpg"
+           width="45"
+           alt="The Red Users"/>
+    </td>
+    <td>
+      <strong>The Red Users</strong> — Penetration Testing Intern<br/>
+      <em>Oct 2024 – Nov 2024</em>
+      <ul>
+        <li>Web and network penetration testing</li>
+        <li>Identified SQLi, XSS, and CSRF vulnerabilities</li>
+        <li>Delivered remediation-focused security reports</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
