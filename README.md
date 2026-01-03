@@ -145,7 +145,7 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 - Built AI-assisted P&ID analysis system (95% accuracy)
 
 <br clear="left"/>
-
+---
 <br clear="left"/>
 
 <img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/TheRedUserslogo.jpg"
