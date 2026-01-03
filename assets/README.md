@@ -1,0 +1,1 @@
+Profile assets (logos, images)
