@@ -135,6 +135,7 @@ Developed a secure resource management module as part of a smart classroom syste
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardikPTL22&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikPTL22&layout=compact&theme=default)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hardikPTL22&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikPTL22&layout=compact&hide_border=true" height="160"/>
+</p>
