@@ -131,47 +131,36 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 
 ## Experience Highlights
 
-<table width="100%">
-  <tr>
-    <td width="60" valign="top">
-      <img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/LTTSlogo.jpg"
-           width="40"
-           alt="L&T Technology Services"/>
-    </td>
-    <td>
-      <strong>L&T Technology Services</strong> — Security Intern<br/>
-      <em>Jan 2025 – Apr 2025</em>
-      <ul>
-        <li>Azure AD threat modeling and IAM security assessments</li>
-        <li>Cloud identity misconfiguration remediation</li>
-        <li>ISMS and GDPR training</li>
-        <li>Built AI-assisted P&amp;ID analysis system (95% accuracy)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/LTTSlogo.jpg"
+     width="38"
+     align="left"
+     alt="L&T Technology Services"/>
 
+**L&T Technology Services** — Security Intern  
+*Jan 2025 – Apr 2025*
 
-<table width="100%">
-  <tr>
-    <td width="60" valign="top">
-      <img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/TheRedUserslogo.jpg"
-           width="40"
-           alt="The Red Users"/>
-    </td>
-    <td>
-      <strong>The Red Users</strong> — Penetration Testing Intern<br/>
-      <em>Oct 2024 – Nov 2024</em>
-      <ul>
-        <li>Web and network penetration testing</li>
-        <li>Identified SQLi, XSS, and CSRF vulnerabilities</li>
-        <li>Delivered remediation-focused security reports</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- Azure AD threat modeling and IAM security assessments  
+- Cloud identity misconfiguration remediation  
+- ISMS and GDPR training  
+- Built AI-assisted P&ID analysis system (95% accuracy)
 
+<br clear="left"/>
 
+---
+
+<img src="https://raw.githubusercontent.com/hardikPTL22/hardikPTL22/main/assets/TheRedUserslogo.jpg"
+     width="38"
+     align="left"
+     alt="The Red Users"/>
+
+**The Red Users** — Penetration Testing Intern  
+*Oct 2024 – Nov 2024*
+
+- Web and network penetration testing  
+- Identified SQLi, XSS, and CSRF vulnerabilities  
+- Delivered remediation-focused security reports  
+
+<br clear="left"/>
 
 ---
 
