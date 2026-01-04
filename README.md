@@ -51,7 +51,10 @@ Cloud security assessment platform designed to detect AWS misconfigurations and 
 Key highlights:
 - Multi-service scanning (IAM, S3, EC2, RDS, CloudTrail)
 - Secure AWS STS-based account validation
-- Compliance-oriented reporting (PDF, JSON, CSV)
+- Risk-weighted GRC compliance engine with ISO 27001–aligned controls
+- Interactive compliance dashboard with overall score, non-compliant controls, and remediation details
+- Compliance trend analysis across scans to support audits and continuous monitoring
+- Audit-ready report generation in PDF, JSON, and CSV formats
 - Dockerized for production-ready deployment
 
 ---
