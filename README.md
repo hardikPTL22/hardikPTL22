@@ -184,6 +184,10 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hardikPTL22&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardikPTL22&theme=github" />
 </p>
 
