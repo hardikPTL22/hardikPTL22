@@ -178,7 +178,16 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 
 ---
 ## GitHub Activity
+
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardikPTL22" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardikPTL22" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hardikPTL22&hide_border=true" />
 </p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardikPTL22&theme=github" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardikPTL22&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000" />
+</p>
+
