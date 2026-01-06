@@ -188,7 +188,7 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardikPTL22&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardikPTL22&theme=github" />
 </p>
 
 
