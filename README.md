@@ -179,13 +179,17 @@ Python (FastAPI, boto3), Bash, Go, C/C++, Java
 ---
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardikPTL22&theme=github_dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardikPTL22&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardikPTL22&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardikPTL22&theme=github_dark" />
-</p>
 
 
 
