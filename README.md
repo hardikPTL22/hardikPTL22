@@ -7,7 +7,7 @@ security posture, and building practical security tools aligned with industry st
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
 ![Cloud Security](https://img.shields.io/badge/Domain-Cloud%20Security-informational)
 ![AWS](https://img.shields.io/badge/Platform-AWS-orange)
-![DevSecOps](https://img.shields.io/badge/Practice-DevSecOps-success)
+![GRC](https://img.shields.io/badge/Practice-DevSecOps-success)
 
 ---
 
